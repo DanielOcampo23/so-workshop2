@@ -1,8 +1,8 @@
 # Taller 2
 
-**Nombre:** student_name  
-**Código:** student_id  
-**Github URL:** github_fork_url
+**Nombre:** Daniel Ocampo  
+**Código:** A00053980 
+**Github URL:** https://github.com/DanielOcampo23/so-workshop2/edit/A00053980/README.md/README.md
 
 ## Descripción
 
